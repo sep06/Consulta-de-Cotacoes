@@ -1,0 +1,9 @@
+2025-08-19 18:14:45,526 - INFO - === Iniciando consulta de cotações ===
+2025-08-19 18:14:45,526 - INFO - Consultando API: https://api.exchangerate-api.com/v4/latest/BRL
+2025-08-19 18:14:46,129 - INFO - Dados recebidos com sucesso da API
+2025-08-19 18:14:46,130 - INFO - Cotação USD: 5.4054 BRL
+2025-08-19 18:14:46,130 - INFO - Cotação EUR: 6.3291 BRL
+2025-08-19 18:14:46,130 - INFO - Cotação GBP: 7.2993 BRL
+2025-08-19 18:14:46,131 - INFO - Arquivo cotacoes.csv criado com cabeçalho
+2025-08-19 18:14:46,131 - INFO - 3 cotações salvas em cotacoes.csv
+2025-08-19 18:14:46,131 - INFO - === Consulta de cotações concluída com sucesso ===
