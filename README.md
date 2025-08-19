@@ -15,14 +15,20 @@ Logging configurado: INFO level com timestamps e múltiplos handlers
 Arquitetura modular: Separação clara de responsabilidades
 
 Como usar:
-bash# Instalar dependência
+
+bash#
+
+Instalar dependência
 pip install requests
 
-# Executar o script
+Executar o Script:
+
 python cotacoes.py
+
 Arquivos gerados:
 
 cotacoes.csv: Dados das cotações
+
 cotacoes.log: Logs de execução
 
 Exemplo de saída CSV:
